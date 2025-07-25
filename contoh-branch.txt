@@ -1,5 +1,6 @@
 Ini Contoh Branch
 ini contoh commit ke dua di file contoh-branch
+ini paragraf yang saya tambahkan
 
 Contoh aja : 
   * ES6
