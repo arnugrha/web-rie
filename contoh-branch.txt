@@ -15,4 +15,5 @@ Contoh aja :
   Php Framework
   ^ Laravel
 Python
-saya menambahkan paragraf ini 
+saya menambahkan paragraf ini
+contoh paragraf
